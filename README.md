@@ -16,7 +16,7 @@ This project is a **Retrieval-Augmented Generation (RAG)** application built usi
 Clone the repository and install the dependencies using pip. It’s recommended to use a virtual environment.
 
 ```bash
-git clone https://github.com/MohammedHasanMustafa/rag-app.git
+git clone https://github.com/MohammedHasanMustafa/RAG-Based-Q-A.git
 cd rag-app
 pip install -r requirements.txt
 ```
