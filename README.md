@@ -1,6 +1,6 @@
 # 🧠 RAG-Based Question Answering System
 
-This project is a **Retrieval-Augmented Generation (RAG)** application built using **LangChain**, **FAISS**, **Gemini/OpenAI**, and **Gradio**. It allows users to ask questions and receive context-aware answers pulled directly from uploaded documents — along with the sources used in the answer.
+This project is a **Retrieval-Augmented Generation (RAG)** application built using **LangChain**, **FAISS**, **Gemini**, and **Gradio**. It allows users to ask questions and receive context-aware answers pulled directly from uploaded documents — along with the sources used in the answer.
 
 ## 🚀 Features
 
