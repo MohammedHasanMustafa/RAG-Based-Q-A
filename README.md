@@ -23,16 +23,14 @@ This project is a **Retrieval-Augmented Generation (RAG)** application built usi
 git clone https://github.com/yourusername/rag-app.git
 cd rag-app
 
-### 2. Install Dependencies
+2. Install Dependencies
 We recommend using a virtual environment.
 
-```bash
 pip install -r requirements.txt
 
 ### 3. Set Your API Key
 Create a .env file in the root directory:
 
-```bash
 GEMINI_API_KEY=your-gemini-api-key
 
 ### 🧠 How It Works
@@ -55,7 +53,6 @@ GEMINI_API_KEY=your-gemini-api-key
 
 ### 💻 Run the App
 
-```bash
 python query_data.py
 This will open the Gradio interface in your browser.
 
