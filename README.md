@@ -55,6 +55,7 @@ GEMINI_API_KEY=your-gemini-api-key
 
 ### 💻 Run the App
 
+```bash
 python query_data.py
 This will open the Gradio interface in your browser.
 
